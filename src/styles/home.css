@@ -1,4 +1,18 @@
 .home {
   background-color: aqua;
-  width: 500px;
+}
+
+.addBtn {
+  width: 200px;
+  height: 47px;
+}
+
+.listInput {
+  width: 200px;
+  height: 40px;
+  font-size: 15px;
+}
+
+.list {
+  list-style: none;
 }
